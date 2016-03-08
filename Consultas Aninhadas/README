@@ -1,0 +1,1 @@
+Para utilizar o script, abra o mysql neste diretorio e execute "source BDEXEMPLO.bd" aqui a estrutura das tabelas e o database foram criadas, para adicionar os elementos na tabela digite e execute "source BDEXEMPLO.sql".
