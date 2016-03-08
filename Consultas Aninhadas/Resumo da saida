@@ -1,6 +1,6 @@
 Sendo A atributos e B resultado da consulta (conjunto de atributos)
 
-produtos cartesianos exists
+produtos cartesianos exists e in
 
 A in B - VERDADEIRO se A está em B
 exists B - VERDADEIRO se B não é vazio
