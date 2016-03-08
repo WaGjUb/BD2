@@ -1,6 +1,6 @@
 Faça duas consultas, utilizando in e exists para:
-- Verificar os marinheiros que reservaram o barco 103 
-- Verificar os marinheiros que reservaram o barco de cor azul ou vermelha
+- Verificar os marinheiros que não reservaram o barco 103 
+- Verificar os marinheiros que reservaram o barco de cor vermelho
 
 extra:
 - Simule uma consulta (teste de mesa) com exists fazendo o produto cartesiano. 
